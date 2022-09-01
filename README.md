@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vicchor
 - 👀 I’m interested in something
-- 🌱 I’m currently learning Ubuntu terminal and C#
+- 🌱 I’m currently focus on Arch btw
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
