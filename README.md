@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vicchor
-- 👀 I’m interested in something
-- 🌱 I’m currently focus on Arch btw
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in learning how to program in python.
+- 🌱 I’m currently focus on python.
+- 💞️ I’m not looking to collaborate on.
 - 📫 How to reach me ...
 
 <!---
