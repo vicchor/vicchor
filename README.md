@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vicchor
-- 👀 I’m interested in learning how to program in python.
-- 🌱 I’m currently focus on python.
+- 👀 I’m interested in learning how to code web Pagés.
+- 🌱 I’m currently focus on HTML and CSS.
 - 💞️ I’m not looking to collaborate on.
 - 📫 How to reach me ...
 
